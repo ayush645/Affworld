@@ -31,12 +31,21 @@
 ### Install packages:
 
 ```
-$ Create config.env and set environment variable like DB and JWT
+$ Create config.env and set environment variables
+
+PORT =
+DATABASE =
+DATABASE_PASSWORD =
 ```
 
 
 ```
-$ npm install 
+cd server
+$ npm install
+```
+```
+cd client
+$ npm install
 ```
 
 ### Start Local Server For Testing:
